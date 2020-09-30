@@ -1,0 +1,50 @@
+
+p {
+    color: whitesmoke;
+}
+body{
+    background-image: url(../images/fractal.jpg);
+    padding-right: 50px;
+}
+
+img {
+    border-radius: 8px;
+    background-position: center;
+  }
+.Header {
+    background-color:blue;
+    height: 80px;
+    text-align: center;
+    color: white;
+    padding: 1px;
+}
+.intro, .outro{
+    
+    color: white;
+}
+.columns div{
+    padding: 1%;
+    box-sizing: border-box;
+}
+.left, .right{
+    width: 25%;
+    float: left;
+}
+.Center{
+    width: 50%;
+    float: left;
+}
+.Footer{
+    font-family: 'Amatica SC',cursive;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+h2{
+    color:white;
+}
+h1{
+color: black;
+font-style:italic ;
+font-family: Arial, Helvetica, sans-serif;
+}
